@@ -9,5 +9,5 @@ clone islemleri
 
 ---
 
-*git clone
-*git add
+-git clone
+-git add
